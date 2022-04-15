@@ -16,4 +16,4 @@ spec:
     spec:
       containers:
       - name: hello
-        image: chiyochan/gitops:hellov1.1
+        image: chiyochan/gitops:hellov1.2
